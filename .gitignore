@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-wip/
-unit_primeri/
-unit_tests/
-ML_Project/
+# wip/
+# unit_primeri/
+# unit_tests/
+# ML_Project/
 
 # C extensions
 *.so
